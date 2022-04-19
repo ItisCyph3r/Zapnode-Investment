@@ -1,2 +1,2 @@
-# Newsletter-Signup
+# Zapnode Investment
 Hosted @ https://zapnode.herokuapp.com/
